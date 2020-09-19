@@ -1,0 +1,127 @@
+:root {
+    /* color scheme */
+    --color-jet: #333232;
+    --color-copper: #CE6C47;
+    --color-keppel: #49BEAA;
+}
+
+/* css reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    width: 100%;
+    height: 100px;
+    flex: 0 0 auto;
+    border-bottom: 1px solid snow;
+}
+
+main {
+    background: url("../assets/pic.jpg") no-repeat center center / cover;
+    width: 100%;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-content: center;
+    position: relative;
+    overflow-y: scroll;
+}
+
+#logo, #add {
+    height: 100%;
+    width: auto;
+    padding: 20px;
+    max-width: 70vw;
+}
+
+#add:hover, #enterBtn:hover, #cancelBtn:hover, img.removeBtn{
+    filter: brightness(0.8);
+    cursor: pointer;
+}
+
+#infoBox {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(48, 48, 48, 0.8);
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#enterBtn, #cancelBtn {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+    color: snow;
+    text-align: center;
+    padding: 12px;
+    align-self: center;
+    margin: 0 12px;
+}
+
+#enterBtn {
+    background-color: var(--color-keppel);
+}
+
+#cancelBtn {
+    background-color: var(--color-copper);
+}
+
+textarea {
+    padding: 12px;
+    border-radius: 2px;
+    resize: none;
+    margin: 32px;
+}
+
+.listItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: auto;
+    width: 90%;
+    margin: 20px auto;
+    background: rgba(48, 48, 48, 0.8);
+    border-radius: 5px;
+    border: 1px solid snow;
+    color: snow;
+}
+
+.listItem>p{
+    flex: 1 1 auto;
+    height: auto;
+    width: auto;
+    padding: 16px;
+    text-align: left;
+    margin: auto 0;
+    word-break: break-word;
+}
+
+.listItem>img {
+    height: 32px;
+    width: 32px;
+    margin: 20px;
+    flex: 0 0 auto;
+}
