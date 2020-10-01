@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b86d530-a670-4b76-ae99-f1112a9f1b43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizzbuzz/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizzbuzz/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizzbuzz/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizzbuzz/src/main/java/com/jahnelgroup/challenges/fizzbuzz/FizzBuzzChallenge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/src/main/java/com/jahnelgroup/challenges/memoize/MemoizeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/src/main/java/com/jahnelgroup/challenges/memoize/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/src/main/java/com/jahnelgroup/challenges/memoize/user/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/src/main/java/com/jahnelgroup/challenges/memoize/user/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memoize/src/test/java/com/jahnelgroup/challenges/memoize/MemoizeApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merge-sorted-arrays/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merge-sorted-arrays/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merge-sorted-arrays/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merge-sorted-arrays/src/main/java/com/jahnelgroup/challenges/mergesortedarrays/MergeSortedArraysChallenge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merge-sorted-arrays/src/test/java/com/jahnelgroup/challenges/mergesortedarrays/MergeSortedArraysChallengeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/x.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path=".idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>var(--color-snow)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>snow</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gitignore" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b86d530-a670-4b76-ae99-f1112a9f1b43" name="Default Changelist" comment="" />
+      <created>1600019286188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600019286188</updated>
+      <workItem from="1600019288506" duration="5488000" />
+      <workItem from="1600319800208" duration="2776000" />
+      <workItem from="1600460708347" duration="6644000" />
+      <workItem from="1600476228704" duration="131000" />
+      <workItem from="1600797262856" duration="735000" />
+      <workItem from="1601308429432" duration="348000" />
+      <workItem from="1601308787287" duration="1391000" />
+      <workItem from="1601532311626" duration="370000" />
+    </task>
+    <task id="LOCAL-00001" summary="Made project">
+      <created>1600475514205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600475514206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added .gitignore">
+      <created>1600476093480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600476093480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Removed files">
+      <created>1600476251699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600476251699</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added comments to index">
+      <created>1601308679853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601308679853</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17883000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.19083023" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made project" />
+    <MESSAGE value="Added .gitignore" />
+    <MESSAGE value="Removed files" />
+    <MESSAGE value="Added comments to index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added comments to index" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/run.gif" />
+    <entry file="file://$PROJECT_DIR$/gitignore" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/x.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
